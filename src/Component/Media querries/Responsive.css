@@ -1,0 +1,38 @@
+@media only screen and (max-width: 1000px) {
+  .ex-item{
+    width: 400px;
+  }
+  .k1{
+    font-size: 18px;
+  }
+  .k2{
+    font-size: 15px;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+
+
+  .res1{
+   
+    flex-direction: column;
+  }
+  .res2{
+    padding: 6px;
+  }
+  .res3{
+display: flex;
+flex-direction: column;
+margin-top: 70px;
+  }
+  .res4{
+    margin-bottom: 60px;
+  }
+  .ex-item{
+    width: 400px;
+  }
+  
+};
+
+
+

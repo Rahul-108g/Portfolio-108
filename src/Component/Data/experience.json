@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "role": "3 MONTHS COMPUTER DIPLOM Hardware",
+    "organisation": "Google",
+    "startDate": "Feb, 2017",
+    "endDate": "MAY, 2017",
+    "location": "BHIWANI,HARYANA(127021)",
+    "experiences": [
+      "Worked on basic computer knowledge"
+    ],
+    "imageSrc": "company/hardware.png"
+  },
+  {
+    "id": 2,
+    "role": "FULL STACK JAVA DEVELOPER",
+    "organisation": "DUCAT",
+    "startDate": "Aug, 2023",
+    "endDate": "PRESENT",
+    "location": "GURGAON,HARAYNA(122001)",
+    "experiences": [
+      "Work on web design and its different function"
+    ],
+    "imageSrc": "company/ducat.jpg"
+  }
+ 
+]

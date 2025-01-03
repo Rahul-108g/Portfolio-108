@@ -1,0 +1,19 @@
+
+
+@media only screen and (max-width: 500px) {
+  .res2{
+    padding: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  }
+
+  .res6{
+    font-size: 20px;
+  }
+
+  .res7{
+    flex-direction: column;
+    align-content: center;
+  }
+ 
+}
